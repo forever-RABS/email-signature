@@ -1,0 +1,44 @@
+<div>
+
+    <table style="border: 1px solid rgba(83, 83, 83, 0.374); border-radius: 20px; padding:10px">
+        <tbody>
+            <tr>
+                <td style="padding:1em 1em 1em .2em">
+                  <table>
+                    <tbody>
+                        <tr>
+                          <td style="padding-bottom: .8em;">
+                            <span
+                              style="color:black;font-family:'Noto Sans';font-style:normal;font-weight:600;font-size:16px;line-height:80%">Srinivas
+                              A N</span> <br>
+                            <span
+                              style="color:black; font-family:'Noto Sans';font-style:normal;font-weight:400;font-size:14px;line-height:80%">Managing
+                              Partner</span>
+                          </td>
+                        </tr>
+                    </tbody>
+                  </table>
+
+                    <span
+                        style=" color:black;font-family:'Noto Sans';font-style:normal;font-weight:600;font-size:16px;line-height:100%">
+                        <a style="text-decoration:none;color:black" href='tel:+919606566032'>  +91 96065 66032</a>
+                       </span>
+                </td>
+                <td style="padding:2.7em 1em 1em"><a href="#SignatureSanitizer_"><img
+                            src="https://aquamarine-semolina-d82c57.netlify.app/linked%20in.png" alt=""> <br>
+                    </a><a style="text-decoration:none;color:black" href="http://www.2prism.work"
+                        target="_blank">www.2prism.work</a>
+                </td>
+                <td style="width: 24%;"></td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <img style="width: 400px;" src="https://aquamarine-semolina-d82c57.netlify.app/logo.png" alt="">
+                </td>
+            </tr>
+        </tbody>
+
+
+
+    </table>
+</div>
